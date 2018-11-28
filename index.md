@@ -1,6 +1,6 @@
 ---
 title: How I painted a wall of data
-cover: /assets/images/covers/cover@xl.jpeg
+cover: /assets/images/covers/cover.jpg
 members: Component 01, Component 02, Component 03, Component 04, Component 05, Component 06, Component 07
 description: Short description of the document for the meta tags (limit to 150 characters, longer will be cut by search engines)
 ---
