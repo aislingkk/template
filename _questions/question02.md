@@ -1,5 +1,5 @@
 ---
-title: A crucial question is how to interpret our drawing.
+title: What are the words in the sources talking about data center energy?
 cover: /assets/images/covers/viz02.jpg
 number: 2
 ---

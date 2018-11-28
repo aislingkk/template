@@ -1,5 +1,5 @@
 ---
-title: How many times do we move forward?
+title: What kind of sources are talking about data center energy?
 cover: /assets/images/covers/viz01.jpg
 number: 1
 ---

@@ -1,5 +1,5 @@
 ---
-title: WHAT IS THE ATTITUDE OF THE PUBLIC TOWARDS DATA CENTER ENERGY?
+title: What is the attitude of the public towards data center energy on YouTube?
 cover: /assets/images/covers/vis0602.png
 number: 6
 ---

@@ -1,5 +1,5 @@
 ---
-title: Which kind of sources are talking about data center energy?
+title: How is the impression of data center energy through the news media?
 cover: /assets/images/covers/vis05.png
 number: 5
 ---

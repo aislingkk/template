@@ -1,5 +1,5 @@
 ---
-title: Which kind of sources are talking about data center energy?
+title: When did people start to talk about green computing and how was it evolved?
 cover: /assets/images/covers/viz02.jpg
 number: 4
 ---
