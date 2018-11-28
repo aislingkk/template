@@ -100,7 +100,6 @@
 <!-- Main visualization -->
 <main class="question__visualization">
     <div class="container">
-
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 5000 3172.17">
         <defs>
           <style>
@@ -137,10 +136,12 @@
             }
       
             .visfirst5 {
-              fill: #ffffff;
+              fill: #000;
+              visibility: hidden;
             }
             .visfirst05 {
                 fill: #000;
+                visibility: visible !important;
               }
       
             .visfirst101, .visfirst102, .visfirst106, .visfirst114, .visfirst117, .visfirst123, .visfirst125, .visfirst19, .visfirst5, .visfirst59, .visfirst60 {
@@ -3136,9 +3137,6 @@
           </g>
         </g>
       </svg>
-      
-      
-
 </div>
     <!-- codice per inserire l'immagine, da pensare come renderlo generale -->
 </main>
@@ -3223,9 +3221,11 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
         <script src="https://unpkg.com/intersection-observer@0.5.0/intersection-observer.js" charset="utf-8"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/scrollama/1.4.4/scrollama.min.js" integrity="sha256-1NHjvSjKf8OP+R7cPyIewcfSj2GoMuiKkZechn/9y0Y=" crossorigin="anonymous"></script>
         <script src="/assets/js/scroll.js" charset="utf-8"></script>
+
     
     <script src="/assets/js/main.js" charset="utf-8"></script>
     <script src="/assets/js/custom-scripts.js" charset="utf-8"></script>
+    <script src="/assets/js/vis01.js" charset="utf-8"></script>
 </body>
 
 </html>
