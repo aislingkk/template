@@ -1,8 +1,4 @@
 # dd-phase2-template
-在 assets/js/vis01.js 里面改
-
-改 visualization04.html 里面的东西
-
 
 
 
@@ -10,3 +6,17 @@
 bundle exec jekyll serve
 ```
 
+
+
+你的文章应该放在这个下面，你修改的应该是
+
+```
+/_questions/visualizations/visualization04.html
+assets/js/vis04.js
+```
+
+
+
+如果你想要加入其他的 js 文件可以在 `assets/js` 里面创建，然后参照
+
+`_layouts/default.html`中第48行的写法引入文件。
