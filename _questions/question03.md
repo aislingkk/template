@@ -1,6 +1,6 @@
 ---
 title: Which kind of sources are talking about data center energy?
-cover: /assets/images/covers/viz02.jpg
+cover: assets/images/covers/vis03.png
 number: 3
 ---
 ### Description
