@@ -1,6 +1,6 @@
 ---
 title: When did people start to talk about green computing and how was it evolved?
-cover: /assets/images/covers/viz02.jpg
+cover: /assets/images/covers/vis04.png
 number: 4
 ---
 ### Description
