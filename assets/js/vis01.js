@@ -1,6 +1,5 @@
 $(document).ready(function () {
   $("[id = rectfirst]").hover(function (event) {
-    console.log(1);
     let index = $(event.currentTarget).index() + 1;
     $(".visfirst05").removeClass("visfirst05");
 
@@ -10,4 +9,14 @@ $(document).ready(function () {
       .children(":nth-child(" + index + ")")
       .addClass("visfirst05");
   });
+});
+
+
+// $(document).ready(function () {
+//   $("[id = textscale]").click(function (event) {
+//     console.log(1);
+//     let index = $(event.currentTarget).index() + 1;
+//     $("textscale").addClass("blue");
+//     $("div").addClass("important");
+//   });
 });
