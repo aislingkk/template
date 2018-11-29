@@ -1,12 +1,13 @@
 $(document).ready(function () {
   $("[id = rectfirst]").hover(function (event) {
+    console.log(1);
     let index = $(event.currentTarget).index() + 1;
-    $(".clslabela").removeClass("clslabela");
+    $(".visfirst05").removeClass("visfirst05");
 
     // change this part tot find the text related to the rectbox
     console.log(index);
     $("#visflabel")
       .children(":nth-child(" + index + ")")
-      .addClass("clslabela");
+      .addClass("visfirst05");
   });
 });
