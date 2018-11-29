@@ -13,7 +13,7 @@ header.cover {
 }
 
 .cover__image {
-    width: 100%;
+    width: 200%;
     height: 100%;
     -o-object-fit: cover;
     object-fit: cover;
@@ -22,9 +22,11 @@ header.cover {
 }
 
 .cover__background {
+    width: 40%;
     grid-column: 1 / 15;
     grid-row: 7 / 13;
     background-color: var(--color-main);
+    background-color:rgba(#0066F3,0.33);
 }
 
 .cover__title {
