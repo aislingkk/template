@@ -10,13 +10,3 @@ $(document).ready(function () {
       .addClass("visfirst05");
   });
 });
-
-
-// $(document).ready(function () {
-//   $("[id = textscale]").click(function (event) {
-//     console.log(1);
-//     let index = $(event.currentTarget).index() + 1;
-//     $("textscale").addClass("blue");
-//     $("div").addClass("important");
-//   });
-});
