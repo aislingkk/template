@@ -7,7 +7,8 @@ $(document).ready(function () {
     // change this part tot find the text related to the rectbox
     console.log(index);
     $("#labelsecond")
-      .find('text')
-      .addClass("textBold");
+      .children(":nth-child(" + index + ")")
+      .find("text").addClass("textBold");
   });
 });
+
