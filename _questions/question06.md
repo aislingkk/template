@@ -26,6 +26,6 @@ After cleaning data,we retained nearly 7,000 comments and maked sentiment analys
 ### Data
 ##### Data Source: [DensityDesign](http://densitydesign.org/)
 ##### Timestamp: 19/10/2018
-##### [View Data (500Kb)](http://densitydesign.org/)
+##### [View Data (147Kb)](./assets/dataset/data06.json)
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

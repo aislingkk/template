@@ -22,5 +22,5 @@ We got some keywords and their frequency. At the same time, the searched text an
 ### Data
 ##### Data Source: [DensityDesign](http://densitydesign.org/)
 ##### Timestamp: 02/11/2018
-##### [View Data (500Kb)](http://densitydesign.org/)
+##### [View Data (44Kb)](./assets/dataset/data02.xlsx)
 Our dataset consists a table containing both Chinese and English search results, including the frequency of keywords, the type of website and content.

@@ -21,6 +21,7 @@ Then we found that since its creation in 2005, its number of editing reached its
 ### Data
 ##### Data Source: [DensityDesign](http://densitydesign.org/)
 ##### Timestamp: 19/10/2018
-##### [View Data (500Kb)](http://densitydesign.org/)
+##### [View Data (124Kb)](./assets/dataset/data04.pdf)
+##### [View Data (34Kb)](./assets/dataset/data04.xlsx)
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
