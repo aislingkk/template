@@ -12,11 +12,11 @@ However, whatever China and the United States, sources of information from socia
 
 ![example of protocol]({{ '/assets/images/protocols/protocols_1.png' | relative_url }})
 
-We correspond to English and Chinese, and search for the "data center energy" query,which gets the top 25 URLs.Then, we imported 50 URLs into the WEBPULSE tool and subjectively sorted the content of the webpage. Finally,we divided the website types into 9 categories (Government, Company Web, Reference, News Media, Education, Social Media, Data Center Web,Forum Web, Charitable Organizations).The website content is divided into 6 categories(“Article, Service, News, Report, Tutorial, Paper”). 
+We correspond to English and Chinese, and search for the "data center energy" query,which gets the top 25 URLs.Then, we imported 50 URLs into the WEBPULSE tool and subjectively sorted the content of the webpage. Finally,we divided the website types into 9 categories (Government, Company Web, Reference, News Media, Education, Social Media, Data Center Web,Forum Web, Charitable Organizations).The website content is divided into 6 categories(“Article, Service, News, Report, Tutorial, Paper”).
 
 We also got 50 URL global rankings through ALEXA.But it publishes less relevant content.Most of these related sites have less influence. Meanwhile, we make manually organization of type of website.Finally, we output all the data (50 URL,Websit Type,Language,Website Ranking) to visualize with Tableau and Illustrator.
 
-*Article is an unofficial long article, including some blog content or professional opinions,Service is a data center service website provided by a business or government,News is a relatively short news description of a specific event,report is an official report file published by the company or the government,Tutorial is a tutorial shared on the web,Paper is a scientific paper.
+Article is an unofficial long article, including some blog content or professional opinions,Service is a data center service website provided by a business or government,News is a relatively short news description of a specific event,report is an official report file published by the company or the government,Tutorial is a tutorial shared on the web,Paper is a scientific paper.
 
 
 ### Data
