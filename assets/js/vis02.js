@@ -1,14 +1,11 @@
 $(document).ready(function () {
-  $("[id = rectsecond]").hover(function(event) {
-    console.log(1);
+  $("[id = rectsecond]").mouseenter(function(event) {
     let index = $(event.currentTarget).index() + 1;
     $(".textBold").removeClass("textBold");
 
-    // change this part tot find the text related to the rectbox
-    console.log(index);
     $("#labelsecond")
       .children(":nth-child(" + index + ")")
       .find("text").addClass("textBold");
   });
-});
 
+});
