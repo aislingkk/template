@@ -1,5 +1,5 @@
 ---
-title: How is the impression of data center energy through the news media?
+title: What is the focus and inclination of the news media on the data center?
 cover: /assets/images/covers/vis05.png
 number: 5
 ---

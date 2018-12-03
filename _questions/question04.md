@@ -12,7 +12,7 @@ These events can explain why green computing is getting more and more attention 
 ### Protocol
 ![example of protocol]({{ '/assets/images/protocols/protocols_4.png' | relative_url }})
 
-According to the previous protocol, we got the key node between ‘data center’ and ’energy conservation’ is 'green computing', we searched it in Wikipedia, then through WIKIPEDIA EDIT SRAPER we got its editorial history in Wikipedia. We manually filter and sorting useful data with excel, the visualization is made and improved by illustrator. 
+According to the previous protocol, we got the key node between ‘data center’ and ’energy conservation’ is 'green computing', we searched it in Wikipedia, then through WIKIPEDIA EDIT SCRAPER we got its editorial history in Wikipedia. We manually filter and sorting useful data with excel, the visualization is made and improved by illustrator. 
 
 Then we found that since its creation in 2005, its number of editing reached its peak in 2008, so what happened during this time? Then we used GOOGLE SEARCH. QUERY: DATA CENTER ENERGY CONSUMPTION / DATA CENTER ENERGY / DATA CENTER. Manually select the relevant information from the top 100 websites between 2005 to 2009 and map them to the chart based on time.
 
