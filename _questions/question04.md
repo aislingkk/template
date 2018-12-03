@@ -19,9 +19,8 @@ Then we found that since its creation in 2005, its number of editing reached its
 
 
 ### Data
-##### Data Source: [DensityDesign](http://densitydesign.org/)
+##### Data Source: [GreenComputing](https://en.wikipedia.org/wiki/Green_computing)
 ##### Timestamp: 19/10/2018
 ##### [View Data (124Kb)](./assets/dataset/data04.pdf)
 ##### [View Data (34Kb)](./assets/dataset/data04.xlsx)
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We used GOOGLE SEARCH QUERY: DATA CENTER ENERGY CONSUMPTION / DATA CENTER ENERGY / DATA CENTER then manually select the relevant information from the top 100 websites between 2005 to 2009 and made a list.

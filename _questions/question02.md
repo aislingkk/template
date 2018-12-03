@@ -20,7 +20,7 @@ We used the 50 urls in the first protocol, and then 50 urls were input into VOYA
 We got some keywords and their frequency. At the same time, the searched text and irrelevant text were deleted. Finally, we sorted the words by frequency and divided them into 6 categories according to the content.
 
 ### Data
-##### Data Source: [DensityDesign](http://densitydesign.org/)
+##### Data Source: [Google , ](http://google.com)[Baidu](http://baidu.com)
 ##### Timestamp: 02/11/2018
 ##### [View Data (44Kb)](./assets/dataset/data02.xlsx)
-Our dataset consists a table containing both Chinese and English search results, including the frequency of keywords, the type of website and content.
+Our dataset was consisted of a table containing both Chinese and English search results, including the frequency of keywords, the type of website and content.

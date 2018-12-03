@@ -24,8 +24,8 @@ Tutorial is a tutorial shared on the web,Paper is a scientific paper.
 
 
 ### Data
-##### Data Source: [DensityDesign](http://densitydesign.org/)
+##### Data Source: [Google , ](http://google.com)  [Baidu](http://baidu.com)
 ##### Timestamp: 11/02/2018
 ##### [View Data(35Kb)](./assets/dataset/data01.xlsx)
 
-Our dataset consists of a table where we have both Chinese and English search results, including the category of the web content, the category of the website, and the ranking of the website.
+Our dataset was consisted of a table where we have both Chinese and English search results, including the category of the web content, the category of the website, and the ranking of the website.

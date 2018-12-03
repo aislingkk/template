@@ -15,7 +15,7 @@ After collecting and sorting out news data, we found that nearly half of the new
 Firstly,we search for "Data Center Energy" in Google News (set to US Regional and English) and Baidu News (sorted by news focus), and collect the top 100 news links by manually defining a series of variables(news media, news subjects, news content, news attitudes, etc) to extract relevant information from news.After inputing data on Excel, we use Raw Graphy to make preliminary visualization and finally improve visualization through Illustrator.
 
 ### Data
-##### Data Source: [Google and Baidu](http://densitydesign.org/)
+##### Data Source: [Google News , ](https://news.google.com)[Baidu News](https://news.baidu.com/)
 ##### Timestamp: GOOGLE NEWS (2008~2018),BAIDU NEWS(ALL)
 ##### [View Data (27Kb)](./assets/dataset/data05.xlsx)
 This dataset is made up of 200 news collected from Google News and Baidu News respectively.The manual variables contain that News order,Publishers,News Object,News Topic,Attitude etc.
